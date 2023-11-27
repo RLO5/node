@@ -1,2 +1,3 @@
 # Node
 conduitxyz
+namada
