@@ -1,3 +1,4 @@
 # Node
 conduitxyz
 namada
+eigen
