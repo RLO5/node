@@ -1,7 +1,7 @@
 # Node
-conduitxyz
-eigen
 obol
+eigen
+conduitxyz
 redstone
 check nodes guru
 Esspresso
