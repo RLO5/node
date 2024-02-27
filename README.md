@@ -1,6 +1,5 @@
 # Node
 obol
-eigen
 conduitxyz
 Esspresso
 avail
